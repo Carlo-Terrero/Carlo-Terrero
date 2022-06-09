@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlo-terrero&show_icons=true&locale=en&layout=compact" alt="carlo-terrero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlo-terrero&show_icons=true&locale=en" alt="carlo-terrero" /></p>
+
